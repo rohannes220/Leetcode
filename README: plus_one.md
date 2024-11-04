@@ -1,4 +1,4 @@
-# README: Plus One Solution
+# README: Plus One 
 
 This repository contains my Python solution to the **"Plus One"** problem from [LeetCode's Top Interview Questions - Easy](https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/559/).
 
